@@ -1,0 +1,5 @@
+com\example\RealEstateManagementSystem\RealEstateManagementSystemApplication.class
+com\example\RealEstateManagementSystem\entity\RealEstate.class
+com\example\RealEstateManagementSystem\service\RealEstateService.class
+com\example\RealEstateManagementSystem\controller\RealEstateController.class
+com\example\RealEstateManagementSystem\repository\RealEstateRepository.class
